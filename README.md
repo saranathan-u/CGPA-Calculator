@@ -10,6 +10,7 @@ SUMMARY
  Step 1:
 
  . Download project by using following command
+ https://github.com/saranathan-u/CGPA-Calculator.git
 
  Step 2:
  . Open project VS code editor and make sure whether .Live Server extension installed or not, if installed right click index.html file then tap open with live server option.
